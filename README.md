@@ -2,7 +2,7 @@
 ## A Reproducible Geospatial Framework for Mapping Rooftop Albedo Across Indian Cities
 
 <p align="center">
-<img src="figures/cover.png" width="900">
+<img src="figures/cover-page.png" width="900">
 </p>
 
 ---
@@ -143,7 +143,7 @@ The developed workflow successfully processed over **3.34 million rooftop observ
 ## Spatial Distribution of Rooftop Albedo
 
 <p align="center">
-<img src="figures/Figure_01.png" width="900">
+<img src="figures/plot1.png" width="900">
 </p>
 
 The H3 spatial aggregation reveals considerable spatial heterogeneity both within and among Indian cities, emphasizing the importance of neighborhood-scale analysis.
@@ -153,7 +153,7 @@ The H3 spatial aggregation reveals considerable spatial heterogeneity both withi
 ## Comparative Rooftop Albedo Ranking
 
 <p align="center">
-<img src="figures/Figure_02.png" width="700">
+<img src="figures/plot2.png" width="700">
 </p>
 
 Ahmedabad exhibited the highest average rooftop albedo, whereas Kolkata recorded the lowest.
@@ -163,7 +163,7 @@ Ahmedabad exhibited the highest average rooftop albedo, whereas Kolkata recorded
 ## Distribution of Rooftop Albedo
 
 <p align="center">
-<img src="figures/Figure_03.png" width="700">
+<img src="figures/plot3.png" width="700">
 </p>
 
 Boxplots illustrate substantial differences in rooftop reflectivity distributions among the selected cities.
@@ -173,7 +173,7 @@ Boxplots illustrate substantial differences in rooftop reflectivity distribution
 ## Rooftop Albedo Histograms
 
 <p align="center">
-<img src="figures/Figure_04.png" width="900">
+<img src="figures/plot4.png" width="900">
 </p>
 
 Frequency distributions reveal considerable diversity in rooftop surface characteristics across India's urban environments.
@@ -219,16 +219,8 @@ I also acknowledge **Google Research**, **OpenStreetMap**, and the broader open-
 
 ---
 
-# 📄 Citation
+# Citation
 
 If you use this repository, please cite:
 
 **Mirashi, J. (2026). _From Rooftops to Resilience: A Reproducible Geospatial Framework for Mapping Rooftop Albedo Across Indian Cities._**
-
----
-
-# ⭐ Support
-
-If you found this repository useful, please consider **starring ⭐ the repository**.
-
-Feedback, discussions, and collaborations are always welcome.
