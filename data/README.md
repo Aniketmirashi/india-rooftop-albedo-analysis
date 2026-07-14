@@ -10,13 +10,7 @@ Due to GitHub's file size limitations, the original dataset is **not included** 
 
 Please download the India dataset directly from Google's Open Buildings data portal:
 
-https://sites.research.google/gr/open-buildings/
-
-or
-
-https://storage.googleapis.com/open-buildings-data/v3/polygons_s2_level_6/
-
-*(Replace with the exact download link for the India Rooftop Albedo dataset if you are using a direct CSV source.)*
+ India specific data: https://storage.googleapis.com/eie-cool-roofs-public/india.zip
 
 ---
 
@@ -24,9 +18,9 @@ https://storage.googleapis.com/open-buildings-data/v3/polygons_s2_level_6/
 
 | Attribute | Description |
 |-----------|-------------|
-| Dataset | Google Open Buildings – Rooftop Albedo |
+| Dataset | Google  Heat Resilience data |
 | Region | India |
-| Format | CSV |
+| Format | zip/CSV |
 | Records | ~3.34 Million Rooftop Observations |
 | Variables | `mean_albedo`, `lat`, `lng` |
 
@@ -43,6 +37,6 @@ If you use this dataset, please cite Google's Open Buildings project and any ass
 
 This repository contains only the analysis workflow, visualizations, and documentation. The dataset remains the intellectual property of its original providers and should be obtained from the official source.
 
-For more information, visit:
+For more information, visit: Google Heat Resilience data for 50 cities
 
-https://sites.research.google/gr/open-buildings/
+[https://sites.research.google/gr/open-buildings/](https://sites.research.google/gr/heat-resilience/?_gl=1*12xsvhj*_ga*NzkyMTcxODguMTc4Mzk3MDI2MA..*_ga_163LFDWS1G*czE3ODM5NzAyNjAkbzEkZzEkdDE3ODM5NzI4NzYkajU2JGwwJGgw)
