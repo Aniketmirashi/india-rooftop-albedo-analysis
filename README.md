@@ -2,7 +2,7 @@
 ## A Reproducible Geospatial Framework for Mapping Rooftop Albedo Across Indian Cities
 
 <p align="center">
-<img src="figures/cover-page.png" width="900">
+<img src="figures/Cover-page.jpeg" width="900">
 </p>
 
 ---
